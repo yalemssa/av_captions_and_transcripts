@@ -1,6 +1,6 @@
-api_url: https://devarchivesspace.library.yale.edu/api
-api_username: amd243
-api_password: FFmIjc5xLw
+api_url: BASE_URL
+api_username: USERNAME
+api_password: PW
 input_csv: test_file.csv
 output_csv:
 log_path:
